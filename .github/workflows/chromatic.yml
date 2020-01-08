@@ -12,4 +12,5 @@ jobs:
       with:
         appCode: jop5qodv3vl
         token: ${{ secrets.GITHUB_TOKEN }}
+        buildScriptName: storybook:build
 
