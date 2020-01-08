@@ -1320,25 +1320,6 @@
   dependencies:
     react-elm-components "^1.1.0"
 
-"@cultureamp/kaizen-component-library@^17.4.2":
-  version "17.4.2"
-  resolved "https://registry.yarnpkg.com/@cultureamp/kaizen-component-library/-/kaizen-component-library-17.4.2.tgz#ffff9a5ae7027632294a0a3cb7d0bfc4d8a925af"
-  integrity sha512-pNz6VLx9miqvB3taRY8gDcf/WOpyALCEiNqYiWSnMohwUJhK1uzjAoCj1iTDrmNS9UMFRaPO+DjRNnLcLMcSJA==
-  dependencies:
-    "@types/classnames" "^2.2.6"
-    "@types/lodash" "^4.14.132"
-    "@types/react-select" "^3.0.5"
-    "@types/uuid" "^3.4.4"
-    classnames "^2.2.6"
-    lodash "^4.17.11"
-    motion-ui "^2.0.3"
-    react-animate-height "^2.0.15"
-    react-focus-lock "^1.19.1"
-    react-media "^1.9.2"
-    react-select "^3.0.8"
-    react-transition-group "^2.9.0"
-    uuid "^3.3.2"
-
 "@emotion/cache@^10.0.17", "@emotion/cache@^10.0.9":
   version "10.0.19"
   resolved "https://registry.yarnpkg.com/@emotion/cache/-/cache-10.0.19.tgz#d258d94d9c707dcadaf1558def968b86bb87ad71"
