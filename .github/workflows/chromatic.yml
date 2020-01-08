@@ -11,7 +11,7 @@ jobs:
       with:
         node-version: '10.16.3'
     - name: Install dependencies
-      run: npm install
+      run: yarn setup
     - uses: chromaui/action@v1
       with:
         appCode: jop5qodv3vl
