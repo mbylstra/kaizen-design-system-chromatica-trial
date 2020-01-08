@@ -11,6 +11,7 @@
     "ts-node": "TS_NODE_TRANSPILE_ONLY=true ts-node",
     "storybook": "yarn ts-node node_modules/.bin/start-storybook -c storybook",
     "storybook:build": "yarn ts-node node_modules/.bin/build-storybook -c storybook -o storybook/public",
+    "build-storybook": "storybook:build",
     "gatsby": "yarn workspace site gatsby",
     "tslint": "tslint --project .",
     "prettier": "prettier --check '**/*'",
